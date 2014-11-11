@@ -1,0 +1,11 @@
+G:\MS_Study Demo\EMDemo\Cor.Pro.Dal\bin\Debug\Cor.Pro.Dal.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.Dal\bin\Debug\Cor.Pro.Dal.pdb
+G:\MS_Study Demo\EMDemo\Cor.Pro.Dal\bin\Debug\Cor.Pro.IDal.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.Dal\bin\Debug\Cor.Pro.Model.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.Dal\bin\Debug\EntityFramework.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.Dal\bin\Debug\EntityFramework.SqlServer.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.Dal\bin\Debug\Cor.Pro.IDal.pdb
+G:\MS_Study Demo\EMDemo\Cor.Pro.Dal\bin\Debug\Cor.Pro.Model.pdb
+G:\MS_Study Demo\EMDemo\Cor.Pro.Dal\obj\Debug\Cor.Pro.Dal.csprojResolveAssemblyReference.cache
+G:\MS_Study Demo\EMDemo\Cor.Pro.Dal\obj\Debug\Cor.Pro.Dal.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.Dal\obj\Debug\Cor.Pro.Dal.pdb

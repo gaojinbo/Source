@@ -1,0 +1,11 @@
+G:\MS_Study Demo\EMDemo\Cor.Pro.Model\bin\Debug\Cor.Pro.Model.dll.config
+G:\MS_Study Demo\EMDemo\Cor.Pro.Model\bin\Debug\Cor.Pro.Model.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.Model\bin\Debug\Cor.Pro.Model.pdb
+G:\MS_Study Demo\EMDemo\Cor.Pro.Model\bin\Debug\EntityFramework.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.Model\bin\Debug\EntityFramework.SqlServer.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.Model\bin\Debug\Newtonsoft.Json.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.Model\bin\Debug\EntityFramework.xml
+G:\MS_Study Demo\EMDemo\Cor.Pro.Model\bin\Debug\EntityFramework.SqlServer.xml
+G:\MS_Study Demo\EMDemo\Cor.Pro.Model\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.Model\obj\Debug\Cor.Pro.Model.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.Model\obj\Debug\Cor.Pro.Model.pdb

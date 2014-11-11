@@ -1,0 +1,8 @@
+G:\MS_Study Demo\EMDemo\Cor.Pro.IBll\bin\Debug\Cor.Pro.IBll.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.IBll\bin\Debug\Cor.Pro.IBll.pdb
+G:\MS_Study Demo\EMDemo\Cor.Pro.IBll\bin\Debug\Cor.Pro.Model.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.IBll\bin\Debug\EntityFramework.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.IBll\bin\Debug\Cor.Pro.Model.pdb
+G:\MS_Study Demo\EMDemo\Cor.Pro.IBll\obj\Debug\Cor.Pro.IBll.csprojResolveAssemblyReference.cache
+G:\MS_Study Demo\EMDemo\Cor.Pro.IBll\obj\Debug\Cor.Pro.IBll.dll
+G:\MS_Study Demo\EMDemo\Cor.Pro.IBll\obj\Debug\Cor.Pro.IBll.pdb
