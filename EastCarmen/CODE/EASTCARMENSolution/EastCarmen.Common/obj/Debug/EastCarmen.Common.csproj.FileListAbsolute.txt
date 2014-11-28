@@ -1,0 +1,6 @@
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.Common\bin\Debug\EastCarmen.Common.dll
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.Common\bin\Debug\EastCarmen.Common.pdb
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.Common\obj\Debug\EastCarmen.Common.csprojResolveAssemblyReference.cache
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.Common\obj\Debug\EastCarmen.Common.dll
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.Common\obj\Debug\EastCarmen.Common.pdb
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.Common\bin\Debug\HtmlAgilityPack.dll

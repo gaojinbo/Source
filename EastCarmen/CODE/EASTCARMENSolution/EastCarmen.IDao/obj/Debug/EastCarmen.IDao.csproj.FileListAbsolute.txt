@@ -1,0 +1,8 @@
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.IDao\bin\Debug\EastCarmen.IDao.dll
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.IDao\bin\Debug\EastCarmen.IDao.pdb
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.IDao\bin\Debug\EastCarmen.Entity.dll
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.IDao\bin\Debug\EntityFramework.dll
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.IDao\bin\Debug\EastCarmen.Entity.pdb
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.IDao\obj\Debug\EastCarmen.IDao.csprojResolveAssemblyReference.cache
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.IDao\obj\Debug\EastCarmen.IDao.dll
+F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\EastCarmen.IDao\obj\Debug\EastCarmen.IDao.pdb
