@@ -1,6 +1,0 @@
-F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\ConsoleMain\bin\Debug\ConsoleMain.exe.config
-F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\ConsoleMain\bin\Debug\ConsoleMain.exe
-F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\ConsoleMain\bin\Debug\ConsoleMain.pdb
-F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\ConsoleMain\obj\Debug\ConsoleMain.csprojResolveAssemblyReference.cache
-F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\ConsoleMain\obj\Debug\ConsoleMain.exe
-F:\GitRespository\Source\EastCarmen\CODE\EASTCARMENSolution\ConsoleMain\obj\Debug\ConsoleMain.pdb
